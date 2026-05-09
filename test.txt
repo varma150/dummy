@@ -1,0 +1,14 @@
+  (use "git rm --cached <file>..." to unstage)
+        new file:   test.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test1.txt
+        test2.txt
+
+
+ravik@varma MINGW64 ~/OneDrive/Desktop/test (master)
+$ git commit -m "first commit"
+[master (root-commit) 316e6f3] first commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test.txt
