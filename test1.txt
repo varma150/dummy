@@ -1,1 +1,22 @@
-To https://github.com/varma150/dumm
+Check the branches
+-------------------
+
+git branch   -> It display how many branches are there
+
+
+*master(activate brach green color
+
+git branch <branch_name> # to create the branch 
+
+
+git checkout <branch>
+git switch <branch>
+
+
+
+
+
+
+
+
+
