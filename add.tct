@@ -1,0 +1,12 @@
+ checkout master
+Already on 'master'
+
+ravik@varma MINGW64 ~/OneDrive/Desktop/test (master)
+$ git merge main
+Already up to date.
+
+ravik@varma MINGW64 ~/OneDrive/Desktop/test (master)
+$ git merge new
+Already up to date.
+
+ravik@varma MINGW
